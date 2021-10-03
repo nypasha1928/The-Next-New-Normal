@@ -1,0 +1,43 @@
+body {
+    /* background-image: url("/Images/image1/head.gif");
+    background-size: 500px 100px;
+    background-repeat: no-repeat; */
+    color:black;
+    
+   
+}
+.jumbotron {
+    background-image: url("/Images/image1/head.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+    width:800px;
+    margin:auto;
+    padding: 100px;
+    
+   
+}
+/* title {
+    text-decoration: none;
+} */
+/* .row h3{
+   font-size : 20px;
+   color:black;
+   text-align: center;
+   height: 50rem;
+   width: 50rem;
+   margin: auto;
+   padding-top: 10px;
+   position:relative;
+} */
+.jumbotron p {
+    font-size : 20px;
+    color:black;
+    text-align: center;
+    /* height: 50rem;
+    width: 50rem;
+    margin: auto; */
+    padding-top: 200px;
+    position:relative;
+
+}
